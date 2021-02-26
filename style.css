@@ -1,0 +1,60 @@
+*{
+margin:0;
+padding:0;
+ }
+ 
+ html{
+	 background-color:#b3ffff;
+	 background:radial-gradient(rgba(234,213,255,0.2),rgba(293,205,205,0.4),rgba(0,0,0,0.1));
+	 text-align:center;
+	 }
+	 h2 {
+  
+  font-family: "Raleway", sans-serif;
+  font-weight: 200;
+  font-size: 30px;
+  color:blue ;
+  padding:10px;
+	 }
+	 
+	 .input{
+		 font-size:25px;
+		 color:#004c00;
+		 font-weight:800;
+		 font-family:Monotype Corsiva;
+		 margin:21px;
+		  text-align:center;
+	 }
+	 #button{
+		 width:100px;
+		 height:40px;
+		 font-size:23px;
+		 font-family:"Comic Sana MS",cursive;   
+		 background-color:#001a66;
+		 color:whitesmoke;
+		 box-shadow:0 2px 2px 0 rgba(0,0,0,0.5);  
+		 margin-top:10px;
+		 
+	 }
+	 table{
+		 border-collapse:collapse;
+		 width:80%;
+		 margin:18px auto;
+		 background-color:pink;
+	 }
+	 table,th,td{
+		 border:2px solid pink;
+		 padding:5px;
+	 }
+	 th{
+		 font-size:20px;
+		 font-weight:700;
+		 font-family:Arial;
+		 color:#004c00;
+	 }
+	 td{
+font-size:15px;
+color:crimson;
+font-weight:400;
+font-family:Georgia;		 
+		 }
